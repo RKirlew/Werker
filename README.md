@@ -7,3 +7,5 @@ Title: title of post to search for, can be a sub title, example "working on this
 Default values are set to set comments on weekly "What's everyone working on this week" in r/Python, just set a file location.
 
 Feel free to point out issues.
+Getting the executable:
+Clone the WerkerEXE file and run werker.exe from there.
